@@ -1,0 +1,3 @@
+C:/Files/Projects/Clion/NVV200000Asg5/cmake-build-debug/CMakeFiles/NVV200000Asg5.dir
+C:/Files/Projects/Clion/NVV200000Asg5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Files/Projects/Clion/NVV200000Asg5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

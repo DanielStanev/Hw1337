@@ -1,0 +1,23 @@
+Stand1,stock inventory, 20
+Stand2,stock inventory, 20
+Stand3,stock inventory, 20
+Stand1,buy, 10
+Stand2,buy, 03
+Stand4,buy, 4
+Stand3,buy, 1
+Stand3,stock inventory, 34
+Stand1,buy, 30
+Stand2,buy, 17
+Stand2,buy, 01
+Stand3,stock inventory, 17
+Stand1,stock inventory, 13
+Stand2,stock inventory, 40
+Stand2,buy, 07
+Stand3,buy, 5
+Stand4,buy, 15
+Stand1,buy, 39
+Stand2,buy, 12
+Stand2,buy, 01
+
+
+

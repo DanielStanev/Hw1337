@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Hotdogs"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Files/Projects/Clion/Hotdogs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hotdogs">
+				<Option output="C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Hotdogs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Files/Projects/Clion/Hotdogs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW64/include"/>
+					<Add directory="c:\mingw64\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\mingw64\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw64\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\mingw64\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\mingw64\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\mingw64\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 Hotdogs"/>
+					<CompileFile command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hotdogs/fast">
+				<Option output="C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Hotdogs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Files/Projects/Clion/Hotdogs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MinGW64/include"/>
+					<Add directory="c:\mingw64\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\mingw64\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw64\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\mingw64\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\mingw64\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\mingw64\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 Hotdogs/fast"/>
+					<CompileFile command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Files/Projects/Clion/Hotdogs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Files/Projects/Clion/Hotdogs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW64/bin/mingw32-make.exe -f &quot;C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Files/Projects/Clion/Hotdogs/main.cpp">
+			<Option target="Hotdogs"/>
+		</Unit>
+		<Unit filename="C:/Files/Projects/Clion/Hotdogs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Files/Projects/Clion/Hotdogs/HotDogStandsClass.h
+string
+-
+
+C:/Files/Projects/Clion/Hotdogs/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+new
+-
+sstream
+-
+HotDogStandsClass.h
+C:/Files/Projects/Clion/Hotdogs/HotDogStandsClass.h
+

@@ -1,0 +1,3 @@
+C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/CMakeFiles/Hotdogs.dir
+C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Files/Projects/Clion/Hotdogs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
